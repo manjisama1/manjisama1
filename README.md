@@ -1,16 +1,31 @@
-## Hi there 👋
+## What I Work With
 
-<!--
-**manjisama1/manjisama1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages & Environment
+<p>
+  <img height="40" src="https://skillicons.dev/icons?i=js,nodejs,bash,git,ubuntu,vscode" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I Love
+<p>
+  <img height="40" src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+- Puppeteer  
+- Axios  
+- Cheerio  
+- Sharp  
+- Jimp  
+- Better-sqlite3  
+
+---
+
+## Currently Learning
+<p>
+  <img height="40" src="https://skillicons.dev/icons?i=python,html,css" />
+  <img height="40" src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+
+
